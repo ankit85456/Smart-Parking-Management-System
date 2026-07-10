@@ -1,2 +1,33 @@
-# Smart-Parking-Management-System
-A C++ based Smart Parking Management System implementing OOP concepts and DSA using Vector and Stack with vehicle parking, search, unpark, and undo features.
+# 🚗 Smart Parking Management System (C++)
+
+## Features
+- Park Vehicle
+- Unpark Vehicle
+- Search Vehicle
+- Parking Status
+- Undo Last Parking
+- Input Validation
+- Current Time Recording
+
+## Technologies
+- C++
+- OOP
+- DSA
+- STL (Vector, Stack)
+
+## Data Structures Used
+- Vector
+- Stack
+
+## Concepts Used
+- Object-Oriented Programming
+- Linear Search
+- Input Validation
+
+## How to Run
+
+Compile:
+g++ main.cpp -o parking
+
+Run:
+./parking
